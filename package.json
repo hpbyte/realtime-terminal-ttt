@@ -1,0 +1,24 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "Real-time Multi-player Terminal Tic-Tac-Toe",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "socket.io",
+    "terminal",
+    "real-time"
+  ],
+  "author": "Htoo Pyae Lwin",
+  "license": "ISC",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "figlet": "^1.5.0",
+    "socket.io": "^3.1.0",
+    "socket.io-client": "^3.1.0"
+  }
+}
