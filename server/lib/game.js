@@ -10,7 +10,7 @@
  *
  */
 
-const { checkIsTied, checkWin } = require("./engine");
+const { checkIsTied, checkWin } = require("../utils/helpers");
 
 class Game {
   constructor(gameID, [pX, pO]) {
