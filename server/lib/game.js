@@ -62,7 +62,7 @@ class Game {
   // show the board
   get progress() {
     return [...this.board.values()]
-    .reduce((a, b) => `${a}${b || '.'}|`, '');
+      .reduce((a, b) => `${a}${b || '.'}|`, '');
   }
 
   // toggle turn
