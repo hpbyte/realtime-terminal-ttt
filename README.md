@@ -2,6 +2,8 @@
 
 A tic-tac-toe game but in terminal.
 
+Here's the tutorial on [medium](https://htoopyae5.medium.com/real-time-multi-player-terminal-game-931b04461df3)
+
 ### Dependencies
  - Socket.io Server  
  - Socket.io Client  
